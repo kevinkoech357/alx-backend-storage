@@ -1,11 +1,3 @@
--- Create db holberton if it doesnt exist
-
-CREATE DATABASE IF NOT EXISTS holberton;
-
--- Use the newly created database holberton
-
-USE holberton;
-
 -- Drop table if it does exist
 DROP TABLE IF EXISTS users;
 
